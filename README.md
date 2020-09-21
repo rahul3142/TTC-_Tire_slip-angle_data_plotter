@@ -1,1 +1,2 @@
-# TTC-_Tire_slip-angle_data_plotter
+The FSAE Tire Test Consortium (FSAE TTC) ia an organization which provides tire tesing data to registered student FSAE teams. These data allows students to design their suspension and steering systems according to the behaviour of the tire.
+This simple python program helps visualize these data. Here a default template fo slip-angles vs lateral load is presented, but the program can be easily edited to compare and paramaters between any number of tires.
