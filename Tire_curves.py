@@ -27,7 +27,7 @@ def slip_angles(link):
 for file in to_be_compared_list:
     slip_angles(f'{file}')
 
-plt.ylabel('Lateral Load (N)')
+plt.ylabel('Lateral Load (lb)')
 plt.xlabel('Slip Angles (deg)')
 plt.title('Random Tire data Curves')
 plt.axis([-13, 13, -650, 650])
